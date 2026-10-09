@@ -1,0 +1,14 @@
+*.runs/
+*.cache/
+*.gen/
+*.hw/
+*.sim/
+*.ip_user_files/
+.Xil/
+*.jou
+*.log
+build/
+images/
+components/
+BOOT.BIN
+image.ub
